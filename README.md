@@ -17,9 +17,15 @@ Desafio Iniciante do treinamento da Rocketseat para ensino de tecnologias WEB.
 
 <br>
 
-<p align="center">
-  <img alt="projeto Corrigindo Bugs" src="images/preview.jpg" width="100%">
-</p>
+<div align="center" margin="auto" width="100%">
+  <p>Antes</p>
+  <img alt="projeto Corrigindo Bugs" src="images/antes.png" width="45%">
+</div>
+<br>
+<div align="center" margin="auto" width="100%">
+  <p> Depois </p>
+  <img alt="projeto Corrigindo Bugs" src="images/depois.png" width="45%">
+</div>
 
 ## 🚀 Tecnologias
 
